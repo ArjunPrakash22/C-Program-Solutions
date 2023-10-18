@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main() {
     int n,target,i,j;
     printf("Enter the total number:");
